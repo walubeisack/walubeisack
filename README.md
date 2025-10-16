@@ -24,8 +24,8 @@
 ---
 
 ## Reach me at
-- Email: [iwalube@clarku.edu](mailto:iwalube@clarku.edu)<br />
-- Linkedin: [Isack Walube](https://www.linkedin.com/in/isack-walube-458876217)<br />
+- Email: [walubeisack@gmail.com](mailto:walubeisack@gmail.com)<br />
+- Linkedin: [Isack Walube](https://www.linkedin.com/in/isack-walube)<br />
 - Twitter: [IsackNewtWalube](https://x.com/IsaacNewtWalube)<br />
 
 
