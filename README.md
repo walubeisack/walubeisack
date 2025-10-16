@@ -1,5 +1,5 @@
 
-## **Hi there 👋, my name is Isack Walube**
+## **Hi there 👋, my name is Walube Isack**
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/isack-walube-458876217/)
 
@@ -25,7 +25,7 @@
 
 ## Reach me at
 - Email: [walubeisack@gmail.com](mailto:walubeisack@gmail.com)<br />
-- Linkedin: [Isack Walube](https://www.linkedin.com/in/isack-walube)<br />
+- Linkedin: [Walube Isack](https://www.linkedin.com/in/isack-walube)<br />
 - Twitter: [IsackNewtWalube](https://x.com/IsaacNewtWalube)<br />
 
 
